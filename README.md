@@ -7,4 +7,10 @@ Me gusta hacer simulaciones y análisis numérico, especialmente cuando involucr
 El último proyecto que hice fue un [un algoritmo de ray tracing](https://github.com/IoachimusRoderici/RayTracing), y actualmente estoy armando
 [un análisis sobre la orientación de nébulas planetarias](https://github.com/IoachimusRoderici/NebulosasOrientadas).
 
+![Un espectrograma](/espectrograma.png)
+
+![Gráficos del campo eléctrico](/campoeléctrico.png)
+
+![Animación de una partícula moviendose en el campo eléctrico](/electrodinámica.gif)
+
 ![un gráfico de ray tracing](https://github.com/IoachimusRoderici/RayTracing/blob/master/recorrido.png)
