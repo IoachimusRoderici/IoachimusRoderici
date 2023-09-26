@@ -11,6 +11,4 @@ El último proyecto que hice fue un [un algoritmo de ray tracing](https://github
 
 ![Gráficos del campo eléctrico](/campoelectrico.png)
 
-![Animación de una partícula moviendose en el campo eléctrico](/electrodinámica.gif)
-
 ![un gráfico de ray tracing](https://github.com/IoachimusRoderici/RayTracing/blob/master/recorrido.png)
