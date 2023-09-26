@@ -9,7 +9,7 @@ El último proyecto que hice fue un [un algoritmo de ray tracing](https://github
 
 ![Un espectrograma](/espectrograma.png)
 
-![Gráficos del campo eléctrico](/campoeléctrico.png)
+![Gráficos del campo eléctrico](/campoelectrico.png)
 
 ![Animación de una partícula moviendose en el campo eléctrico](/electrodinámica.gif)
 
